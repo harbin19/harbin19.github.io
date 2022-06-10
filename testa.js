@@ -1,10 +1,10 @@
 var randstr='',ticket='',secretId='',address='',interval='',vcon='',htmm='',scri='',timeout=555;
 var A={
-        activityInfoId:'b984613988d64c82ba0d347633dcc98a',
+        activityInfoId:'ad06afb239314419a7aa60be25dc6019',
         payType:'WX_PAY',
         redirectUrl:'https://club.10155.com/shop/orderDetail',
-        spuId:'10005315',
-        id:'dc93b49b999148fc8bf44dc36132bf83'
+        spuId:'10005070',
+        id:'b3fe4229f5b949a7928d9dcd8a54a530'
     };
 var AA={
         activityInfoId:'b984613988d64c82ba0d347633dcc98a',
