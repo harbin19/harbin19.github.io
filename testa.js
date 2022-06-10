@@ -1,4 +1,4 @@
-var randstr='',ticket='',secretId='',address='',interval='',vcon='',htmm='',scri='',timeout=555;
+var randstr='',ticket='',secretId='',address='',interval='',vcon='',htmm='',scri='',timeout=655;
 var A={
         activityInfoId:'ad06afb239314419a7aa60be25dc6019',
         payType:'WX_PAY',
