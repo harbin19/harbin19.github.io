@@ -3,8 +3,8 @@ var A={
         activityInfoId:'87341f9504364bc58f74cce1a1894949',
         payType:'WX_PAY',
         redirectUrl:'https://club.10155.com/shop/orderDetail',
-        spuId:'10006750',
-        id:'620d7c0a753f4ce29a695dab3bcce7d6'
+        spuId:'10006711',
+        id:'d130847e6845488bac7de784f1a76107'
     };
 var AA={
         activityInfoId:'87341f9504364bc58f74cce1a1894949',
