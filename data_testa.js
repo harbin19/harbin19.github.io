@@ -18,3 +18,8 @@ var AAAA={
         spuId:'10003868',
         id:'fd30c2c6f7da4d23a95ea3124c9c3ce8'
     };
+var AAAAA={
+        activityInfoId:'b466d542fcb5448a8a81087673216b16',
+        spuId:'10003868',
+        id:'fd30c2c6f7da4d23a95ea3124c9c3ce8'
+    };
