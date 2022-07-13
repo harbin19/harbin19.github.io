@@ -82,20 +82,6 @@ var oo=[
       "quantity": 8
     }
   ]
-}},
-    {"title":"老白 702*2=1404",
-    "id":{
-  "orderType": 1,
-  "proProType1":3,
-  "orgId": "727551618916024320",
-  "shipMode": 1,
-  "orderDetailList": [
-    {
-      "ostId": "",
-      "proId": "935496004017324032",
-      "quantity": 2
-    }
-  ]
 }}
 ];
 var o=oo[3].id;
