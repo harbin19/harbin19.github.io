@@ -82,6 +82,20 @@ var oo=[
       "quantity": 8
     }
   ]
+}},
+    {"title":"百联 1405*1=1405",
+    "id":{
+  "orderType": 1,
+  "proProType1":3,
+  "orgId": "817425775685795840",
+  "shipMode": 1,
+  "orderDetailList": [
+    {
+      "ostId": "",
+      "proId": "915349701467832320",
+      "quantity": 1
+    }
+  ]
 }}
 ];
 var o=oo[3].id;
